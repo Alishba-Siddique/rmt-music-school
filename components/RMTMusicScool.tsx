@@ -114,7 +114,7 @@ const faqs = [
   },
   {
     q: 'What about months with 5 weeks?',
-    a: "We guarantee four lessons per month—there's no extra charge when a month includes a fifth week. That's our promise to you.",
+    a: "We guarantee four lessons per month, there's no extra charge when a month includes a fifth week. That's our promise to you.",
   },
   {
     q: 'Can I switch instruments or packages?',
@@ -487,7 +487,7 @@ export default function RMTMusicSchool() {
                 <span className="bg-linear-to-r from-indigo-600 via-purple-600 to-pink-600 bg-clip-text text-transparent animate-gradient">
                   love
                 </span>
-                —and parents{' '}
+                and parents{' '}
                 <span className="bg-linear-to-r from-purple-600 via-pink-600 to-rose-600 bg-clip-text text-transparent animate-gradient">
                   trust
                 </span>
@@ -655,7 +655,7 @@ export default function RMTMusicSchool() {
               </span>
             </h2>
             <p className="text-lg sm:text-xl text-slate-600 max-w-3xl mx-auto leading-relaxed">
-              Start with your favorite—switch anytime. Every journey begins with
+              Start with your favorite, switch anytime. Every journey begins with
               a single note.
             </p>
           </AnimatedSection>
