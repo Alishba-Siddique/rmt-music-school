@@ -485,7 +485,7 @@ export default function RMTMusicSchool() {
               <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold tracking-tight leading-[1.1]">
                 Music lessons that kids{' '}
                 <span className="bg-linear-to-r from-indigo-600 via-purple-600 to-pink-600 bg-clip-text text-transparent animate-gradient">
-                  love
+                  love {' '}
                 </span>
                 and parents{' '}
                 <span className="bg-linear-to-r from-purple-600 via-pink-600 to-rose-600 bg-clip-text text-transparent animate-gradient">
